@@ -1,4 +1,3 @@
-! Youtube recommendations
 ! Up next
 m.youtube.com##ytm-item-section-renderer[section-identifier="related-items"]
 ! home feed
@@ -29,3 +28,7 @@ m.youtube.com##ytm-media-item > .media-item-thumbnail-container
 m.youtube.com##ytm-reel-shelf-renderer
 ! search dropdown
 m.youtube.com##ytm-searchbox > .searchbox-dropdown
+||kick.com
+
+
+
