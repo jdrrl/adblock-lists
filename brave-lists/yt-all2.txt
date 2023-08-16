@@ -25,3 +25,5 @@ m.youtube.com##ytm-slim-video-metadata-section-renderer
 m.youtube.com##ytm-browse
 ! thumbnails
 m.youtube.com##ytm-media-item > .media-item-thumbnail-container
+! hide shorts
+m.youtube.com##ytm-reel-shelf-renderer > .item
