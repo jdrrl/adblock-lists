@@ -23,3 +23,5 @@ m.youtube.com##ytm-comments-entry-point-header-renderer
 m.youtube.com##ytm-slim-video-metadata-section-renderer
 ! home page recommendations
 m.youtube.com##ytm-browse
+! thumbnails
+m.youtube.com##ytm-thumbnail
