@@ -7,10 +7,11 @@ If you would like a less distracting experience viewing YouTube content on mobil
 If you modify any of these lists, follow [these instructions](https://github.com/brave/ad-block/wiki/Testing-ad-block-rule-changes-in-Brave) to test your changes locally.
 
 # Examples
-![Alt text](files/IMG_1322.PNG)
-![Alt text](files/IMG_1323.PNG)
-![Alt text](files/IMG_1324.PNG)
-![Alt text](files/IMG_1325.PNG)
+<img src="files/IMG_1322.PNG" alt="drawing" width="200"/>
+<img src="files/IMG_1323.PNG" alt="drawing" width="200"/>
+<img src="files/IMG_1324.PNG" alt="drawing" width="200"/>
+<img src="files/IMG_1325.PNG" alt="drawing" width="200"/>
+
 
 ## brave-unbreak.txti
 
