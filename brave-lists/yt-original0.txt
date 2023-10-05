@@ -26,3 +26,5 @@ m.youtube.com##ytm-media-item > .media-item-thumbnail-container
 m.youtube.com##ytm-reel-shelf-renderer
 ! search dropdown
 m.youtube.com##ytm-searchbox > .searchbox-dropdown
+! hide video
+m.youtube.com##player-container-id
